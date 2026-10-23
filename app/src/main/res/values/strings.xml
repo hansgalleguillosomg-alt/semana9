@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleMultimediaApp</string>
+    <string name="cd_imagen">Imagen de ejemplo</string>
+    <string name="btn_audio">Reproducir audio</string>
+    <string name="btn_video">Reproducir video</string>
+    <string name="btn_animar">Animar imagen</string>
+    <string name="btn_permiso">Solicitar permiso</string>
+    <string name="permiso_concedido">Permiso concedido</string>
+    <string name="permiso_denegado">Permiso denegado</string>
+</resources>
